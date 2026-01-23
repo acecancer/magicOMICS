@@ -29,13 +29,3 @@ This repository documents and provides resources for foundational machine learni
 | **HyenaDNA** | **Title:** HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution<br>**Authors:** Eric Nguyen et al.<br>**Venue/Year:** NeurIPS 2023<br>**Preprint:** [arXiv:2306.15794](https://arxiv.org/abs/2306.15794) | [GitHub Repository](https://github.com/HazyResearch/hyena-dna) | Human reference genome (hg38) |
 | **Evo** | **Title:** Sequence modeling and design from molecular to genome scale with Evo<br>**Authors:** Eric Nguyen et al.<br>**Venue/Year:** *Science*, 2024<br>**DOI:** [10.1126/science.ado9336](https://doi.org/10.1126/science.ado9336) | [GitHub Repository](https://github.com/evo-design/evo) | Multi-modal DNA, RNA, and protein sequences |
 
-## 🚀 Getting Started
-
-### Installation
-
-Clone this repository and install dependencies:
-
-```bash
-git clone https://github.com/your-username/genomic-foundation-models.git
-cd genomic-foundation-models
-pip install -r requirements.txt
